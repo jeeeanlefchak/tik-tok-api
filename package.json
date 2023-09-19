@@ -1,0 +1,19 @@
+{
+  "name": "tiktok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run" : "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^3.0.2",
+    "gtts": "^0.2.1",
+    "play-sound": "^1.1.6",
+    "tiktok-live-connector": "^1.0.5"
+  }
+}
